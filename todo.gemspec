@@ -4,7 +4,7 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 require 'todo/version'
 
 Gem::Specification.new do |spec|
-  spec.name          = "todo"
+  spec.name          = "todoooooo"
   spec.version       = Todo::VERSION
   spec.authors       = ["sugimoto"]
   spec.email         = ["sugimoto@miraie-group.jp"]
